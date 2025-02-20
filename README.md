@@ -4,7 +4,7 @@
 
 Working in Correos, since 2018 :)
 
-Examples of my working
+Examples of my work
 1.  https://jjrn87.github.io/LLMM_BreakingBad/
 
 <!---
