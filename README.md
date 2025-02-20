@@ -4,6 +4,9 @@
 
 Working in Correos, since 2018 :)
 
+Examples of my working
+1.  https://jjrn87.github.io/LLMM_BreakingBad/
+
 <!---
 JJRN87/JJRN87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
