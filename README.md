@@ -6,8 +6,9 @@
 Working in Correos, since 2018 :)
 
 Examples of my work
-1.  https://jjrn87.github.io/LLMM_BreakingBad/
-2.  https://github.com/PabloTeranRueda/Calculadora_Grupo12_ED / Calculator made with IntellJ, Junit and JavaDoc
+1.  https://jjrn87.github.io/LLMM_BreakingBad/ [Html5 and CSS3 work]
+2.  https://github.com/PabloTeranRueda/Calculadora_Grupo12_ED /  [Calculator made with IntellJ, Junit and JavaDoc]
+3.  https://jjrn87.github.io/E.D_2T_JavaDocs/  [JavaDoc examples]
 
 <!---
 JJRN87/JJRN87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
