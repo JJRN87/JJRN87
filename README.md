@@ -11,8 +11,8 @@ Examples of my work
 3.  https://jjrn87.github.io/E.D_2T_JavaDocs/  [JavaDoc examples]
 4.  https://jjrn87.github.io/streetfighter_LLMM/ [Html5 and CSS3 work]
 5.  https://jjrn87.github.io/LandingJJRN/ [Landing Page, Responsive]
-6.  https://pabloteranrueda.github.io/grupo-7_LLMM_Actividad-3/index.html {Web Responsive, trabajo grupal]
-7.  
+6.  https://pabloteranrueda.github.io/grupo-7_LLMM_Actividad-3/index.html [Responsive Web, collaborator]
+7.  https://github.com/JJRN87/JPA_JavaConection [JAVA connection in JPA with SQL relational database and testing]
 
 <!---
 JJRN87/JJRN87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
