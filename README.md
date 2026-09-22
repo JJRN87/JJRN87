@@ -26,6 +26,8 @@ Proyecto colaborativo de tres personas, desarrollado en UNIR FP en 2026. Es un s
 
 **Alcance de la entrega académica:** la gestión completa de obras y el almacenamiento persistente de imágenes quedan pendientes de integración.
 
+[Consultar la memoria del proyecto (PDF)](https://github.com/JJRN87/Proyecto_Museo_Memoria_DAM.pdf/blob/main/Cuarta_Entrega_Final.pdf)
+
 ## Otras prácticas
 
 - **[Java y acceso a datos con JPA](https://github.com/JJRN87/JPA_JavaConection):** práctica académica de conexión entre Java y una base de datos relacional.
