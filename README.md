@@ -1,39 +1,40 @@
-# Javier Rodríguez Núñez
+# Hola, soy Javier
 
-**Reporting y análisis de datos · CRM · Técnico Superior en DAM**
+Trabajo en Correos como Gestor de Apoyo Corporativo y en 2026 he terminado DAM en UNIR FP. Llevo años en la parte de negocio y operaciones, y ahora estoy dedicando más tiempo a SQL y Power BI para seguir avanzando hacia el análisis de datos.
 
-Trabajo como Gestor de Apoyo Corporativo en Correos, donde combino reporting, análisis de información operativa y coordinación entre áreas. He finalizado Desarrollo de Aplicaciones Multiplataforma en UNIR FP para reforzar mi base técnica y avanzar hacia datos, sistemas CRM y mejora de procesos.
+Por aquí voy dejando algunas de las cosas que he hecho durante el ciclo, tanto por mi cuenta como en equipo.
 
-En este perfil comparto una selección de mis proyectos académicos y trabajos en equipo.
+## Mi página web
 
-## Herramientas y base técnica
+### [Ver mi web y currículum](https://jjrn87.github.io/LandingJJRN/)
 
-**Uso profesional:** Excel avanzado, Power BI, Salesforce CRM, herramientas SAP y Power Automate en tareas puntuales.
+Empezó como una actividad de clase de Lenguajes de Marcas y he aprovechado para seguir dándole uso. En 2026 la he actualizado con mi currículum, proyectos y formas de contacto.
 
-**Formación y proyectos:** SQL, bases de datos relacionales, Java/JPA, React, Vite, HTML/CSS y Git/GitHub.
+Está hecha con HTML y CSS. He mantenido la estructura de clase, corrigiendo cosas y mejorando cómo se ve en ordenador y móvil. La idea es seguir actualizándola según vaya haciendo más proyectos.
 
-## Proyecto principal
+[Ver el código de la web](https://github.com/JJRN87/LandingJJRN)
 
-### [Museo CMS — Proyecto final de DAM](https://github.com/andresBella96/museo-cms)
+## Con qué trabajo
 
-Proyecto colaborativo de tres personas, desarrollado en UNIR FP en 2026. Es un sistema de gestión de contenidos para que artistas configuren y publiquen su portfolio. La entrega incluye registro, autenticación, edición de los datos básicos del sitio y visualización de una página pública.
+En mi día a día utilizo Excel, Salesforce, informes de Power BI y herramientas SAP. También he usado Power Automate para alguna tarea puntual.
 
-**Mi aportación:** diseño e implementación del frontend con React y Vite, integración de la API REST y desarrollo del panel de administración y las rutas públicas.
+Durante DAM he trabajado con Java, SQL, bases de datos, JPA, React y Git. Parte de esos trabajos están en los repositorios de este perfil. Sigo aprendiendo y practicando, especialmente la parte de datos.
 
-**Trabajo compartido:** diseño del modelo de datos y definición de endpoints, revisión de código, pruebas funcionales y elaboración de la documentación.
+## Museo CMS
 
-**Tecnologías del proyecto:** React, Vite, Spring Boot, PostgreSQL, Docker y JWT.
+Mi proyecto final de DAM, realizado entre tres compañeros en 2026. Es una aplicación para que artistas puedan configurar y publicar su portfolio.
 
-**Alcance de la entrega académica:** la gestión completa de obras y el almacenamiento persistente de imágenes quedan pendientes de integración.
+Me encargué del frontend con React y Vite, del panel de administración y de conectarlo con la API REST. También trabajamos entre los tres en el modelo de datos, las pruebas y la documentación. El proyecto utiliza Spring Boot, PostgreSQL, Docker y JWT.
 
-[Consultar la memoria del proyecto (PDF)](https://github.com/JJRN87/Proyecto_Museo_Memoria_DAM.pdf/blob/main/Cuarta_Entrega_Final.pdf)
+La entrega académica permite registrarse, iniciar sesión, editar los datos básicos del sitio y ver una página pública. Quedaron pendientes la gestión completa de obras y el almacenamiento persistente de imágenes.
+
+[Ver el repositorio del equipo](https://github.com/andresBella96/museo-cms) · [Leer la memoria del proyecto](https://github.com/JJRN87/Proyecto_Museo_Memoria_DAM.pdf/blob/main/Cuarta_Entrega_Final.pdf)
 
 ## Otras prácticas
 
-- **[Java y acceso a datos con JPA](https://github.com/JJRN87/JPA_JavaConection):** práctica académica de conexión entre Java y una base de datos relacional.
-- **[RetrofitAPI](https://github.com/JJRN87/RetrofitAPI):** aplicación Android de consulta de películas mediante una API.
-- **[Landing personal](https://jjrn87.github.io/LandingJJRN/):** página web creada como ejercicio de clase.
+- [Java y acceso a datos con JPA](https://github.com/JJRN87/JPA_JavaConection). Práctica de conexión entre Java y una base de datos relacional.
+- [RetrofitAPI](https://github.com/JJRN87/RetrofitAPI). Aplicación Android para consultar películas a través de una API.
 
 ## Contacto
 
-Madrid, España · [LinkedIn](https://www.linkedin.com/in/jjrn87/)
+Estoy en Madrid. Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jjrn87/) o contactar desde mi web.
