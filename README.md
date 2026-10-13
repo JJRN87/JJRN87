@@ -32,8 +32,8 @@ La entrega académica permite registrarse, iniciar sesión, editar los datos bá
 
 ## Otras prácticas
 
-- [Java y acceso a datos con JPA](https://github.com/JJRN87/JPA_JavaConection). Práctica de conexión entre Java y una base de datos relacional.
-- [RetrofitAPI](https://github.com/JJRN87/RetrofitAPI). Aplicación Android para consultar películas a través de una API.
+- [Películas con Retrofit](https://github.com/JJRN87/RetrofitAPI). Aplicación Android que consulta una API de películas y muestra carteles, valoraciones y estados de carga o error.
+- [Calculadora IRPF en Android](https://github.com/JJRN87/CalculadoraIRPF_JetpackCompose). Práctica con entrada de datos, validación y navegación entre pantallas. El cálculo es simplificado, solo como ejercicio de clase.
 
 ## Contacto
 
