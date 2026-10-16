@@ -4,7 +4,7 @@ En 2026 terminé DAM en UNIR FP, con Java como lenguaje principal. Ahora preparo
 
 ### [Web y currículum](https://jjrn87.github.io/LandingJJRN/)
 
-La web empezó como una actividad de clase de Lenguajes de Marcas. La he actualizado con mi experiencia, proyectos y datos de contacto. Está hecha con HTML y CSS y puedes [consultar el código aquí](https://github.com/JJRN87/LandingJJRN).
+La web empezó como una actividad de clase de Lenguajes de Marcas. La he actualizado con mi experiencia, proyectos y enlace a LinkedIn. Está hecha con HTML y CSS y puedes [consultar el código aquí](https://github.com/JJRN87/LandingJJRN).
 
 ## Proyectos
 
@@ -33,4 +33,4 @@ Durante DAM he trabajado con Java, SQL, MySQL, PostgreSQL, JPA, React y Git, ade
 
 ## Contacto
 
-Estoy en Madrid. Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jjrn87/) o escribirme a [jjrn87@gmail.com](mailto:jjrn87@gmail.com).
+Estoy en Madrid. Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jjrn87/).
