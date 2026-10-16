@@ -1,5 +1,3 @@
-# Hola, soy Javier
-
 Trabajo en Correos como Gestor de Apoyo Corporativo y en 2026 he terminado DAM en UNIR FP. Llevo años en la parte de negocio y operaciones, y ahora estoy dedicando más tiempo a SQL y Power BI para seguir avanzando hacia el análisis de datos.
 
 Por aquí voy dejando algunas de las cosas que he hecho durante el ciclo, tanto por mi cuenta como en equipo.
