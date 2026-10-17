@@ -2,6 +2,8 @@ Trabajo en Correos como Gestor de Apoyo Corporativo. Elaboro informes en Excel, 
 
 En 2026 terminé DAM en UNIR FP, con Java como lenguaje principal. Ahora preparo PL-300 y sigo practicando Power BI y SQL para orientar mi trayectoria hacia reporting y Business Intelligence.
 
+**Último proyecto:** [Olist Analytics · Power BI](https://github.com/JJRN87/olist-analytics-powerbi), con análisis de ventas, entregas, satisfacción y calidad del dato.
+
 ### [Web y currículum](https://jjrn87.github.io/LandingJJRN/)
 
 La web empezó como una actividad de clase de Lenguajes de Marcas. La he actualizado con mi experiencia, proyectos y enlace a LinkedIn. Está hecha con HTML y CSS y puedes [consultar el código aquí](https://github.com/JJRN87/LandingJJRN).
@@ -18,9 +20,15 @@ La entrega académica permite registrarse, iniciar sesión, editar los datos bá
 
 [Código del equipo](https://github.com/andresBella96/museo-cms) · [Memoria y documentación](https://github.com/JJRN87/Proyecto_Museo_Memoria_DAM.pdf/blob/main/Cuarta_Entrega_Final.pdf)
 
-### Olist Analytics · En desarrollo
+### Olist Analytics · Power BI
 
-Estoy preparando un proyecto de Power BI sobre ventas, entregas y calidad del dato en comercio electrónico. Lo utilizo para practicar Power Query, modelado y medidas DAX mientras preparo PL-300.
+Proyecto personal de Power BI con datos públicos de comercio electrónico. El informe incluye cuatro páginas: ventas, entregas, satisfacción y calidad del dato.
+
+He trabajado la preparación de datos con Power Query, el modelo y las medidas DAX, y las comprobaciones de calidad. El repositorio incluye el archivo PBIX, capturas, un diccionario de métricas y documentación de la práctica individual con Jira y Confluence.
+
+[![Página de ventas de Olist Analytics en Power BI](https://raw.githubusercontent.com/JJRN87/olist-analytics-powerbi/main/capturas/01-ventas.png)](https://github.com/JJRN87/olist-analytics-powerbi)
+
+[Ver el proyecto, las capturas y la documentación](https://github.com/JJRN87/olist-analytics-powerbi)
 
 ### Otras prácticas de DAM
 
