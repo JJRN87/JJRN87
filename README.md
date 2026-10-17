@@ -2,7 +2,7 @@ Trabajo en Correos como Gestor de Apoyo Corporativo y en 2026 he terminado DAM e
 
 Por aquí voy dejando proyectos personales de datos y algunas de las cosas que he hecho durante DAM, tanto por mi cuenta como en equipo.
 
-**Último proyecto:** [Olist Analytics · Power BI](https://github.com/JJRN87/olist-analytics-powerbi), con análisis de ventas, entregas, satisfacción y calidad del dato.
+**Proyecto de datos destacado:** [Olist Analytics · Power BI](https://github.com/JJRN87/olist-analytics-powerbi), con análisis de ventas, entregas, satisfacción y calidad del dato.
 
 ## Mi página web
 
@@ -39,6 +39,14 @@ He trabajado la preparación de datos con Power Query, el modelo y las medidas D
 [![Página de ventas de Olist Analytics en Power BI](https://raw.githubusercontent.com/JJRN87/olist-analytics-powerbi/main/capturas/01-ventas.png)](https://github.com/JJRN87/olist-analytics-powerbi)
 
 [Ver el proyecto, las capturas y la documentación](https://github.com/JJRN87/olist-analytics-powerbi)
+
+## Scouting de fútbol · Power BI y Python
+
+Comparación de jugadores de LaLiga 2015/16 por posición y atributos, con pesos ajustables en Power BI y preparación de datos en Python.
+
+Proyecto desarrollado con apoyo de IA en código y documentación. He definido el objetivo, revisado los resultados y pedido ajustes.
+
+[Ver el proyecto y las capturas](https://github.com/JJRN87/Powerbi-scouting)
 
 ## Otras prácticas
 
