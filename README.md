@@ -1,6 +1,8 @@
 Trabajo en Correos como Gestor de Apoyo Corporativo y en 2026 he terminado DAM en UNIR FP. Llevo años en la parte de negocio y operaciones, con pasión por nuevas tecnologías y en formación continua.
 
-Por aquí voy dejando algunas de las cosas que he hecho durante el ciclo, tanto por mi cuenta como en equipo.
+Por aquí voy dejando proyectos personales de datos y algunas de las cosas que he hecho durante DAM, tanto por mi cuenta como en equipo.
+
+**Último proyecto:** [Olist Analytics · Power BI](https://github.com/JJRN87/olist-analytics-powerbi), con análisis de ventas, entregas, satisfacción y calidad del dato.
 
 ## Mi página web
 
@@ -27,6 +29,16 @@ Me encargué del frontend con React y Vite, del panel de administración y de co
 La entrega académica permite registrarse, iniciar sesión, editar los datos básicos del sitio y ver una página pública. Quedaron pendientes la gestión completa de obras y el almacenamiento persistente de imágenes.
 
 [Ver el repositorio del equipo](https://github.com/andresBella96/museo-cms) · [Leer la memoria del proyecto](https://github.com/JJRN87/Proyecto_Museo_Memoria_DAM.pdf/blob/main/Cuarta_Entrega_Final.pdf)
+
+## Olist Analytics · Power BI
+
+Proyecto personal de Power BI con datos públicos de comercio electrónico. El informe incluye cuatro páginas: ventas, entregas, satisfacción y calidad del dato.
+
+He trabajado la preparación de datos con Power Query, el modelo y las medidas DAX, y las comprobaciones de calidad. El repositorio incluye el archivo PBIX, capturas, un diccionario de métricas y documentación de la práctica individual con Jira y Confluence.
+
+[![Página de ventas de Olist Analytics en Power BI](https://raw.githubusercontent.com/JJRN87/olist-analytics-powerbi/main/capturas/01-ventas.png)](https://github.com/JJRN87/olist-analytics-powerbi)
+
+[Ver el proyecto, las capturas y la documentación](https://github.com/JJRN87/olist-analytics-powerbi)
 
 ## Otras prácticas
 
