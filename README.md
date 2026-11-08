@@ -5,7 +5,7 @@ Por aquí voy dejando proyectos personales de datos y algunas de las cosas que h
 ## Proyectos que puedes ver
 
 - [Olist Analytics](https://github.com/JJRN87/olist-analytics-powerbi): análisis de comercio electrónico con Power BI, Power Query y DAX.
-- [GasHunter](https://jjrn87.github.io/LandingJJRN/gashunter.html): app Android con datos públicos y mapas, en prueba cerrada de Google Play.
+- [GasHunter](https://play.google.com/store/apps/details?id=es.gasolinerascerca): app Android con datos públicos y mapas, disponible en Google Play. [Proyecto y capturas](https://jjrn87.github.io/LandingJJRN/gashunter.html).
 - [Scouting de fútbol](https://jjrn87.github.io/Powerbi-scouting/): demo para comparar jugadores según posición y atributos.
 - [Museo CMS](https://github.com/andresBella96/museo-cms): proyecto final de DAM realizado en equipo.
 
@@ -49,11 +49,17 @@ He trabajado la preparación de datos con Power Query, el modelo y las medidas D
 
 App para comparar precios de carburantes y localizar opciones cerca de una zona o ruta. Combina mapas, filtros y datos públicos de MITECO. El proyecto incluye un catálogo de recarga con preparación y comprobaciones de datos en Python y actualización mediante GitHub Actions.
 
-He definido las funcionalidades, priorizado cambios y probado el funcionamiento. La implementación y parte de la documentación se han realizado con apoyo de IA.
+He definido las funcionalidades, priorizado cambios, probado el funcionamiento y gestionado la publicación en Google Play. La implementación y parte de la documentación se han realizado con apoyo de IA.
 
-Está en **prueba cerrada de Google Play**; la publicación general está pendiente. El código sigue privado, pero se pueden ver capturas y una explicación del proyecto.
+Disponible en **[Google Play](https://play.google.com/store/apps/details?id=es.gasolinerascerca)**. El código sigue privado; la página del proyecto incluye capturas y una explicación del trabajo realizado.
 
-[Ver GasHunter y sus capturas](https://jjrn87.github.io/LandingJJRN/gashunter.html)
+<a href="https://jjrn87.github.io/LandingJJRN/gashunter.html">
+  <img src="https://raw.githubusercontent.com/JJRN87/LandingJJRN/main/assets/img/gashunter-ruta.png" alt="GasHunter: ruta de ejemplo de Madrid a A Coruña con mapa, filtros y precios de gasolineras" width="260">
+</a>
+
+*Captura de una versión de desarrollo. Pulsa la imagen para ver el proyecto y más capturas.*
+
+[Ver en Google Play](https://play.google.com/store/apps/details?id=es.gasolinerascerca) · [Ver proyecto y capturas](https://jjrn87.github.io/LandingJJRN/gashunter.html)
 
 ## Scouting de fútbol · Power BI y Python
 
